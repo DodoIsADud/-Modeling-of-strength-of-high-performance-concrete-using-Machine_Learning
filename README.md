@@ -1,7 +1,7 @@
 # -Modeling-of-strength-of-high-performance-concrete-using-Machine-Learning
 
 Fly ash and slag concrete (FSC) is such a highly complex material that modeling its 
-behavior is a difficult task. In this paper, a method of modeling the strength of FSC using 
+behavior is a difficult task. In this code, a method of modeling the strength of FSC using 
 different feature selection and optimization models is presented(using comprehensive EDA and feature engineering techniques).
 The strength is a function of age and ingredients. These ingredients include cement, fly ash, blast furnace slag, water, 
 superplasticizer, coarse aggregate, and fine aggregate. The proposed method was 
